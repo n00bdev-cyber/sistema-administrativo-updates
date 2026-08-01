@@ -7,7 +7,7 @@ nunca se incluirá un token de GitHub dentro de la aplicación.
 
 - No contiene código fuente ni datos comerciales.
 - No contiene certificados, claves privadas, tokens ni contraseñas.
-- `stable.json` mantiene las descargas hesabilitadas hasta que haya un
+- `stable.json` mantiene las descargas deshabilitadas hasta que haya un
   instalador Authenticode válido.
 - Las releases publicadas son inmutables.
 - El cliente verifica versión, ruta exacta, tamaño, SHA-256 y Authenticode; no
