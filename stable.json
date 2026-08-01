@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "service": "sistema-fuentes-updates",
+  "channel": "stable",
+  "platform": "windows-x64",
+  "latest": {
+    "version": "0.6.1",
+    "published_at": "2026-07-26T00:00:00Z",
+    "minimum_supported_version": "0.6.0",
+    "mandatory": false,
+    "automatic_updates_enabled": false,
+    "download_url": null,
+    "sha256": null,
+    "size": null,
+    "release_notes": [
+      "Versión 0.6.1 validada como candidata de código.",
+      "Mejora la compatibilidad visual con pantallas de baja resolución.",
+      "La descarga se habilitará únicamente con un instalador firmado y validado."
+    ]
+  }
+}
