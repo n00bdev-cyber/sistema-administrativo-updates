@@ -4,18 +4,18 @@
   "channel": "stable",
   "platform": "windows-x64",
   "latest": {
-    "version": "0.6.1",
-    "published_at": "2026-07-26T00:00:00Z",
+    "version": "0.6.3",
+    "published_at": "2026-08-01T00:00:00Z",
     "minimum_supported_version": "0.6.0",
     "mandatory": false,
-    "automatic_updates_enabled": false,
-    "download_url": null,
-    "sha256": null,
-    "size": null,
+    "automatic_updates_enabled": true,
+    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.3/SistemaFuentes-Setup-0.6.3-unsigned.exe",
+    "sha256": "3b368084f2f5c516feb5b0a515187eba13fc52824ef7277160ba7b9af649e44b",
+    "size": 15418174,
     "release_notes": [
-      "Versión 0.6.1 validada como candidata de código.",
-      "Mejora la compatibilidad visual con pantallas de baja resolución.",
-      "La descarga se habilitará únicamente con un instalador firmado y validado."
+      "Versión 0.6.3 preparada como prueba del actualizador mediante GitHub Releases.",
+      "La barra lateral identifica visiblemente el canal GitHub.",
+      "Instalador unsigned preparado para la prueba controlada desde 0.6.2."
     ]
   }
 }
