@@ -4,20 +4,20 @@
   "channel": "stable",
   "platform": "windows-x64",
   "latest": {
-    "version": "0.6.4",
-    "published_at": "2026-11-02T09:34:05Z",
+    "version": "0.6.5",
+    "published_at": "2026-11-02T10:40:15Z",
     "minimum_supported_version": "0.6.0",
     "mandatory": false,
     "automatic_updates_enabled": true,
-    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.4/SistemaFuentes-Setup-0.6.4-unsigned.exe",
-    "sha256": "3ec1d7752529ae35751c02a76e8852b8c05717e11f4ceb389bd3ae4250f07536",
-    "size": 15684934,
+    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.5/SistemaFuentes-Setup-0.6.5-unsigned.exe",
+    "sha256": "579b6227b9634d01b188d125e18599968bb6b988d9d720f3f859d7d6a1ca0f11",
+    "size": 15685625,
     "release_notes": [
-      "Pantallas nuevas con letras grandes y menú a la izquierda.",
-      "Dólar del día: cada factura guarda el suyo.",
-      "Anular una factura sin perder su número y hacer la corregida.",
-      "Aviso de números de factura faltantes.",
-      "Estadísticas en bolívares o dólares, e impresión sobre talonario u hoja en blanco."
+      "Ya no sale «Algo no salió bien» al mover la rueda del ratón tras cerrar el calendario u otra ventana.",
+      "Si aparece un error, se muestra un solo aviso.",
+      "«Buscar actualizaciones» sin internet ahora dice «Sin conexión».",
+      "La aplicación borra sola los instaladores de actualizaciones ya usados.",
+      "Pequeños arreglos en el reporte impreso y en la pantalla Facturas."
     ]
   }
 }
