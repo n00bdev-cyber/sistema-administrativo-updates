@@ -4,20 +4,19 @@
   "channel": "stable",
   "platform": "windows-x64",
   "latest": {
-    "version": "0.6.5",
-    "published_at": "2026-11-02T10:40:15Z",
+    "version": "0.6.6",
+    "published_at": "2026-11-03T19:19:45Z",
     "minimum_supported_version": "0.6.0",
     "mandatory": false,
     "automatic_updates_enabled": true,
-    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.5/SistemaFuentes-Setup-0.6.5-unsigned.exe",
-    "sha256": "579b6227b9634d01b188d125e18599968bb6b988d9d720f3f859d7d6a1ca0f11",
-    "size": 15685625,
+    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.6/SistemaFuentes-Setup-0.6.6-unsigned.exe",
+    "sha256": "e1807e3c635d6e9463fb6a691712f50e3c9024cad71c8f65363fb99bb80e50f8",
+    "size": 15697498,
     "release_notes": [
-      "Ya no sale «Algo no salió bien» al mover la rueda del ratón tras cerrar el calendario u otra ventana.",
-      "Si aparece un error, se muestra un solo aviso.",
-      "«Buscar actualizaciones» sin internet ahora dice «Sin conexión».",
-      "La aplicación borra sola los instaladores de actualizaciones ya usados.",
-      "Pequeños arreglos en el reporte impreso y en la pantalla Facturas."
+      "Nuevo botón «Corregir números»: arregla el número de factura o de control de una factura hecha, sin anularla.",
+      "Al anular una factura para corregirla, pregunta si el papel está bien; si lo está, la corregida usa el mismo número.",
+      "Las facturas anuladas tienen el botón «Hacerla de nuevo», también las anuladas antes de esta versión.",
+      "Desde Estadísticas ya funcionan los botones de la ventana de una factura."
     ]
   }
 }
