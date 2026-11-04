@@ -4,19 +4,19 @@
   "channel": "stable",
   "platform": "windows-x64",
   "latest": {
-    "version": "0.6.6",
-    "published_at": "2026-11-03T19:19:45Z",
+    "version": "0.6.7",
+    "published_at": "2026-11-04T19:19:27Z",
     "minimum_supported_version": "0.6.0",
     "mandatory": false,
     "automatic_updates_enabled": true,
-    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.6/SistemaFuentes-Setup-0.6.6-unsigned.exe",
-    "sha256": "e1807e3c635d6e9463fb6a691712f50e3c9024cad71c8f65363fb99bb80e50f8",
-    "size": 15697498,
+    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.7/SistemaFuentes-Setup-0.6.7-unsigned.exe",
+    "sha256": "c2157dfa4435090a652c608669f47febb825f4684594b08856099e8f34d74d99",
+    "size": 15700359,
     "release_notes": [
-      "Nuevo botón «Corregir números»: arregla el número de factura o de control de una factura hecha, sin anularla.",
-      "Al anular una factura para corregirla, pregunta si el papel está bien; si lo está, la corregida usa el mismo número.",
-      "Las facturas anuladas tienen el botón «Hacerla de nuevo», también las anuladas antes de esta versión.",
-      "Desde Estadísticas ya funcionan los botones de la ventana de una factura."
+      "Si una factura anulada ya se hizo de nuevo, dice con qué número y ofrece «Ver la Nº …» o «Terminar la corregida».",
+      "Una venta anulada se rehace una sola vez, aunque la corregida también se anule: no queda duplicada ni descuenta el inventario dos veces.",
+      "La lista de facturas muestra «Corregida con la Nº …» en cada anulada.",
+      "Nuevo tema en la Ayuda: «Me equivoqué en la fecha de una factura»."
     ]
   }
 }
