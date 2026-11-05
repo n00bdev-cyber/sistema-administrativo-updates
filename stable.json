@@ -4,19 +4,19 @@
   "channel": "stable",
   "platform": "windows-x64",
   "latest": {
-    "version": "0.6.7",
-    "published_at": "2026-11-04T19:19:27Z",
+    "version": "0.6.8",
+    "published_at": "2026-11-05T07:03:29Z",
     "minimum_supported_version": "0.6.0",
     "mandatory": false,
     "automatic_updates_enabled": true,
-    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.7/SistemaFuentes-Setup-0.6.7-unsigned.exe",
-    "sha256": "c2157dfa4435090a652c608669f47febb825f4684594b08856099e8f34d74d99",
-    "size": 15700359,
+    "download_url": "https://github.com/n00bdev-cyber/sistema-administrativo-updates/releases/download/v0.6.8/SistemaFuentes-Setup-0.6.8-unsigned.exe",
+    "sha256": "296c21124176ec91f5d644e1f372963ef4fcfeb6f0fb02c086217b7a15acc5e5",
+    "size": 15708802,
     "release_notes": [
-      "Si una factura anulada ya se hizo de nuevo, dice con qué número y ofrece «Ver la Nº …» o «Terminar la corregida».",
-      "Una venta anulada se rehace una sola vez, aunque la corregida también se anule: no queda duplicada ni descuenta el inventario dos veces.",
-      "La lista de facturas muestra «Corregida con la Nº …» en cada anulada.",
-      "Nuevo tema en la Ayuda: «Me equivoqué en la fecha de una factura»."
+      "Nuevo botón «Editar» en Facturas: cambie la fecha, el cliente o los libros de una factura y toque «Guardar los cambios». Conserva su número.",
+      "Corrige un error: salir de Facturar a medias podía unir la factura siguiente a una anulada. Ahora pregunta «¿Salir sin guardar?».",
+      "Si una anulada quedó unida por error a otra venta, aparece «Editar esta», que primero pregunta «¿Es otra venta?».",
+      "Nuevo tema en la Ayuda: «Me equivoqué en una factura (fecha, cliente o libros)»."
     ]
   }
 }
